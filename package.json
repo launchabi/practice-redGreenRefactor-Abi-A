@@ -1,0 +1,24 @@
+{
+  "name": "practice-redgreenrefactor-abi-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countVowels-test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aathmakuri034/practice-redGreenRefactor-Abi-A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aathmakuri034/practice-redGreenRefactor-Abi-A/issues"
+  },
+  "homepage": "https://github.com/aathmakuri034/practice-redGreenRefactor-Abi-A#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
